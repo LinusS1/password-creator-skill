@@ -1,5 +1,5 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/key.svg" card_color="#FD9E66" width="50" height="50" style="vertical-align:bottom"/> Password Creator
-Creates passwords xkcd style!
+Creates passwords XKCD style!
 
 ## About
 Creates passwords xkcd style, insert image here
