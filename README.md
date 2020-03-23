@@ -2,7 +2,10 @@
 Creates passwords XKCD style!
 
 ## About
-Creates passwords xkcd style, insert image here
+This skill generates easy to remember passwords, using the XKCD method:
+![xkcd style passwords](https://imgs.xkcd.com/comics/password_strength.png )
+
+This skill randomly generates six words for you to use for your passwords.
 
 ## Examples
 * "Create a password"
