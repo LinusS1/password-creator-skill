@@ -1,3 +1,4 @@
 spelled like (?P<Acrostic>.*)
 using the word (?P<Acrostic>.*)
 the letters in (?P<Acrostic>.*)
+spells (?P<Acrostic>.*)
